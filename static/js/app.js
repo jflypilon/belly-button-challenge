@@ -94,7 +94,7 @@ function bubbleChart(isolateID) {
         mode: "markers",
         marker: {
             color: color,
-            colorscale: "Pastel",
+            colorscale: "Earth",
             size: marker_size,
         },
         type: "scatter",
